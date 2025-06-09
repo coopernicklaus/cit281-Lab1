@@ -1,0 +1,18 @@
+| Action                  | Windows/Linux Shortcut     | Mac Shortcut            |
+|-------------------------|----------------------------|-------------------------|
+| Copy                    | Ctrl + C                   | ⌘ + C                   |
+| Paste                   | Ctrl + V                   | ⌘ + V                   |
+| Cut                     | Ctrl + X                   | ⌘ + X                   |
+| Undo                    | Ctrl + Z                   | ⌘ + Z                   |
+| Redo                    | Ctrl + Y / Ctrl + Shift + Z| ⌘ + Shift + Z          |
+| Save                    | Ctrl + S                   | ⌘ + S                   |
+| Open File               | Ctrl + O                   | ⌘ + O                   |
+| Find                    | Ctrl + F                   | ⌘ + F                   |
+| Replace                 | Ctrl + H                   | ⌘ + Option + F          |
+| Select All              | Ctrl + A                   | ⌘ + A                   |
+| Command Palette         | Ctrl + Shift + P           | ⌘ + Shift + P           |
+| Open Terminal           | Ctrl +                    | ⌘ +                    |
+| Toggle Sidebar          | Ctrl + B                   | ⌘ + B                   |
+| Split Editor            | Ctrl + \                   | ⌘ + \                   |
+| Switch Between Editors  | Ctrl + 1 / 2 / 3           | ⌘ + 1 / 2 / 3           |
+| Close Editor Tab        | Ctrl + W                   | ⌘ + W                   |
